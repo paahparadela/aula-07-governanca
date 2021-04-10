@@ -150,7 +150,6 @@ a {
 
 
 .UserView {
-  background: url("https://cdn.auth0.com/blog/whatabyte-portal/patio.jpeg") left
-    bottom;
+  background: url("coffee.jpg") left bottom;
   background-size: cover;
 }
