@@ -150,6 +150,6 @@ a {
 
 
 .UserView {
-  background: url("coffee.jpg") left bottom;
+  background: url("coffee.jpg") top bottom;
   background-size: cover;
 }
