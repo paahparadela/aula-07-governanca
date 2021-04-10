@@ -2,7 +2,7 @@
 
 ## Exercício
 
-Neste exercício vamos praticar conceitos de proteção de branches, regras de aprovação e validações obrigatórias de pull requests.
+Neste exercício vamos praticar conceitos de proteção de branches, regras de aprovação e validações obrigatórias de pull requests
 
 ### 0. Faça o fork deste repositório para a sua conta pessoal
 
