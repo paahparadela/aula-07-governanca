@@ -1,3 +1,4 @@
+
 # Aula 07 - Rastreabilidade e Governança
 
 ## Exercício
@@ -30,15 +31,7 @@ Vamos configurar qual(is) os status vindos do nosso pipeline deve obrigatoriamen
 
 💡 Dica: Imagine que as regras de proteção de branches vão impedir que certas operações de Git (merge, por exemplo) sejam executadas até que determinadas condições mínimas sejam atendidas.
 
-1. Vá em `Settings` > `Branches`
-2. Na seção **Branch protection rules**, clique em `Add rule`
-3. No campo **Branch protection name patttern** insira: `main`
-4. Clique `Require status checks to pass before merging`
-5. Clique `Require branches to be up to date before merging`
-6. Selecione `build` e `build-container`
-7. Clique `Create`
-
-<!-- Demonstrar o que acontece caso um branch esteja desatualizado -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/47d634fd-ef6b-43da-b518-4eb5ece5b367/deploy-status)](https://app.netlify.com/sites/aula-07-governanca/deploys)
 
 #### :question: O que mudou no seu PR?
 
