@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/47d634fd-ef6b-43da-b518-4eb5ece5b367/deploy-status)](https://app.netlify.com/sites/aula-07-governanca/deploys)
 
 # Aula 07 - Rastreabilidade e Governança
 
@@ -30,8 +31,6 @@ Do jeito que nosso workflow está, caso o build falhasse, seria possível fazer 
 Vamos configurar qual(is) os status vindos do nosso pipeline deve obrigatoriamente passar antes de ser possível fazer o merge. Fazemos isso via proteção de branches (_"branch protection"_)
 
 💡 Dica: Imagine que as regras de proteção de branches vão impedir que certas operações de Git (merge, por exemplo) sejam executadas até que determinadas condições mínimas sejam atendidas.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/47d634fd-ef6b-43da-b518-4eb5ece5b367/deploy-status)](https://app.netlify.com/sites/aula-07-governanca/deploys)
 
 #### :question: O que mudou no seu PR?
 
